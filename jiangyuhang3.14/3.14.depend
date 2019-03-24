@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1553425349 source:c:\users\22371\desktop\3.14\src\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1553425285 c:\users\22371\desktop\3.14\include\employee.h
+	<string>
+
+1553425237 source:c:\users\22371\desktop\3.14\main.cpp
+	<iostream>
+	"Employee.h"
+
+1553425464 source:c:\users\22371\desktop\hwk3.14\main.cpp
+	<iostream>
+	"Employee.h"
+
+1553426035 c:\users\22371\desktop\hwk3.14\include\employee.h
+	<string>
+

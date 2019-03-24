@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1250758270 source:c:\users\22371\desktop\3.15\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1553425737 c:\users\22371\desktop\3.15\include\date.h
+
+1553425736 source:c:\users\22371\desktop\3.15\main.cpp
+	<iostream>
+	"Date.h"
+
+1553425736 source:c:\users\22371\desktop\hwk3.15\main.cpp
+	<iostream>
+	"Date.h"
+
+1553425737 c:\users\22371\desktop\hwk3.15\include\date.h
+
+1553426016 source:c:\users\22371\desktop\hwk3.15\src\date.cpp
+	<iostream>
+	"Date.h"
+
